@@ -1,0 +1,58 @@
+﻿
+div{
+    background-color:white;
+    color:purple;
+    margin:3%;
+     font-weight: 800;;
+font-size:20px;    
+}
+body{
+    padding:3%;
+}
+h3{
+   color:blue;
+font-weight:700;
+font-size:20px;   
+}
+img{
+    width:35%;
+ padding:1% 0px;
+    height: 193px;
+}
+button{
+ background-color:#80B3FF;
+ color:#192655;
+ padding:6px 13px;
+ font-weight:700;
+font-size:16px;
+letter-spacing:1px;
+}
+#b{
+ background-color:blue;
+ color:white;
+height:39px;
+ font-weight:500;
+margin:1%;
+}
+
+input{
+ background-color:pink;
+font-size:14px;
+
+padding:1%;
+
+}
+
+label{
+  background-color:black;
+ color:#FFFB73;
+line-height:7px;
+padding:1%;
+
+
+}
+
+h4{
+ color:#940B92;
+
+}
